@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning SQL & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dpfrank86@gmail.com
-- 😄 Pronouns: ...
 
 <!---
 Claguin/Claguin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
