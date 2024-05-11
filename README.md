@@ -1,8 +1,8 @@
 <h1>Hi, I'm David!</h1>
 
-<h2> Data Analyst Projects:</h2>
+<h2>  Projects:</h2>
 
-- [Visualizations with Tableau]
+
 
 <h2> Certifications</h2>
 
