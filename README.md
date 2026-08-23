@@ -1,6 +1,6 @@
 # Hi, I'm David Frank 👋
 
-**Aspiring Data Scientist** · Data-focused Computer Science student · Ludington, MI
+**Aspiring Data Engineer** · Data-focused Computer Science student · Ludington, MI
 
 I'm a career changer building a portfolio of hands-on data projects. I bring discipline and a strong work ethic from 8 years of U.S. Army IT, healthcare, and running my own trucking business — paired with four Google professional certifications and end-to-end data projects built from raw data to final analysis.
 
