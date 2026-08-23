@@ -12,6 +12,7 @@ I'm a career changer building a portfolio of hands-on data projects. I bring dis
 
 | Project | What it is | Stack |
 |---|---|---|
+| [🌦️ Weather Analytics Pipeline](https://github.com/Claguin/weather-analytics-pipeline) | Production-style ETL pipeline: Open-Meteo API → SQLite star-schema warehouse, with retry logic, gap detection, idempotent upserts, and a pytest suite. | Python · SQL · SQLite · ETL · pytest |
 | [🌱 Green Transition Dashboard](https://github.com/Claguin/green-transition-dashboard) — **[▶ Live Demo](https://green-transition-dashboard-gplxxzwmmfipq8x3saaxwv.streamlit.app/)** | Interactive Streamlit app analyzing the relationship between renewable energy adoption and CO2 emissions per capita, with region filters and an automated live-data ETL pipeline. | Python · Streamlit · pandas · matplotlib · seaborn |
 | [🩺 US Leading Causes of Death, 1999–2017](https://github.com/Claguin/us-mortality-analysis) | End-to-end analysis of CDC mortality data — 19 years × 52 states × 11 causes: national trends, state disparities, and choropleth maps. | Python · pandas · matplotlib · seaborn · geopandas |
 | [📞 Telco Customer Churn Prediction](https://github.com/Claguin/churn-prediction) | Full ML pipeline: EDA, feature engineering, 4-model comparison with hyperparameter tuning, and honest evaluation (ROC-AUC 0.84). | Python · scikit-learn · pandas · seaborn |
@@ -25,6 +26,7 @@ I'm a career changer building a portfolio of hands-on data projects. I bring dis
 | **Languages** | Python, SQL, Java, JavaScript, HTML/CSS, Bash |
 | **Data & Analytics** | pandas, scikit-learn, statistics & hypothesis testing, matplotlib, seaborn, Tableau, Excel |
 | **ML & Deployment** | scikit-learn, Streamlit, ETL pipelines, model evaluation |
+| **Data Engineering** | SQL, SQLite, ETL design, data pipelines, schema design, data-quality checks |
 | **Systems** | Linux, virtual machines, firewalls, database management |
 
 ---
